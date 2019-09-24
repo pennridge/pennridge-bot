@@ -1,0 +1,38 @@
+{
+  "616076450424029258": {
+    "members": {
+      "mod": {
+        "joined with": [
+          "unaccounted"
+        ],
+        "spent": 0,
+        "invites": {
+          "mXFACTx": {
+            "real": 2,
+            "fake": 0,
+            "unaccounted": 0,
+            "unwanted": 0
+          },
+          "VnB7EFe": {
+            "real": 0,
+            "fake": 0,
+            "unaccounted": 0
+          },
+          "bad invite": {
+            "real": 0,
+            "fake": 0,
+            "unaccounted": 0
+          }
+        }
+      },
+      "616076175856631817": {
+        "joined with": [
+          "unaccounted"
+        ],
+        "spent": 0,
+        "invites": {}
+      }
+    },
+    "shop": {}
+  }
+}
